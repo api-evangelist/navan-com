@@ -1,0 +1,98 @@
+aid: navan-com
+name: Navan
+description: >-
+  Navan (formerly TripActions until its February 2023 rebrand) is a Palo Alto,
+  California corporate travel and expense management platform that combines
+  business travel booking, expense management, and corporate cards into a
+  single product. Navan operates a global travel inventory with 24/7 agent
+  support, a swipe-to-reconciliation expense flow with AI-assisted
+  categorization and policy enforcement, and Navan Connect, a card-link
+  network compatible with Visa, Mastercard, and American Express. Newer
+  offerings include Navan Edge, a frequent-traveler assistant, and a Rewards
+  program that incentivizes policy-compliant bookings. The company serves more
+  than 10,000 organizations including Canva, DoorDash, and Duolingo. Navan
+  exposes a partner-grade integration surface — a Booking Data API, an
+  Expense API, a User Management REST API, a SCIM 2.0 provisioning endpoint,
+  and an OAuth 2.0 client-credentials token endpoint — all under
+  api.navan.com. Credentials and reference documentation are provisioned
+  through the Admin portal (Settings → Integrations → API and Admin → SCIM
+  settings) rather than a public developer portal, so the API contracts are
+  not currently published as a downloadable OpenAPI specification.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Corporate Travel
+  - Travel Management
+  - Expense Management
+  - Corporate Cards
+  - Payments
+  - Spend Management
+  - Booking
+  - SCIM
+  - User Management
+  - FinTech
+  - SaaS
+  - TripActions
+url: https://raw.githubusercontent.com/api-evangelist/navan-com/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://navan.com
+  - type: Product
+    url: https://navan.com/products/business-travel
+  - type: Product
+    url: https://navan.com/products/expense
+  - type: Product
+    url: https://navan.com/products/payments
+  - type: Product
+    url: https://navan.com/products/navan-edge
+  - type: Integrations
+    url: https://navan.com/integrations
+  - type: Documentation
+    url: https://app.navan.com/app/helpcenter/articles/travel/admin/other-integrations/navan-tmc-api-integration-documentation
+  - type: Documentation
+    url: https://app.navan.com/app/helpcenter/articles/travel/admin/other-integrations/booking-data-integration
+  - type: Authentication
+    url: https://api.navan.com/auth/v1/token
+  - type: BaseURL
+    url: https://api.navan.com
+  - type: Security
+    url: https://navan.com/security
+  - type: TrustCenter
+    url: https://trust.navan.com
+  - type: Status
+    url: https://status.navan.com
+  - type: Blog
+    url: https://navan.com/blog
+  - type: EngineeringBlog
+    url: https://navan.com/blog/navan-tech-blog
+  - type: Careers
+    url: https://navan.com/careers
+  - type: RandD
+    url: https://navan.com/research-and-development-team
+  - type: Pricing
+    url: https://navan.com/pricing
+  - type: Contact
+    url: https://navan.com/contact
+  - type: Press
+    url: https://navan.com/press
+  - type: PrivacyPolicy
+    url: https://navan.com/legal/privacy-policy
+  - type: TermsOfService
+    url: https://navan.com/legal/terms-of-service
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/navan
+  - type: Twitter
+    url: https://twitter.com/Navan
+  - type: YouTube
+    url: https://www.youtube.com/@navan
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/navan
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
